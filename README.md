@@ -1,0 +1,1 @@
+This is all the tasks I completed in the course 'The Modern Python Bootcamp'
